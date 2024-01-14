@@ -12,7 +12,7 @@
     The most common standard filter sizes for circular filters include 30.5 mm, 35.5 mm, 37 mm, 39 mm, 40.5 mm, 43 mm, 46 mm, 49 mm, 52 mm, 55 mm, 58 mm, 62 mm, 67 mm, 72 mm, 77 mm, 82 mm, 86 mm, 95 mm, 105 mm, 112 mm 122 mm, 127 mm 
      -->
 <ThreadType>
-  <Name>Camera Filter Metric profile</Name>
+  <Name>Camera Thread Profile</Name>
   <CustomName>Camera Filter Metric profile</CustomName>
   <Unit>mm</Unit>
   <Angle>60</Angle>
